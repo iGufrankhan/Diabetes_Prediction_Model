@@ -4,6 +4,8 @@ A Machine Learning-based Diabetes Prediction System that uses health metrics to 
 
 ---
 
+
+
 ## 🚀 Project Overview
 
 This project aims to provide an intelligent and simple way to predict diabetes using a supervised learning model. Given input features like glucose level, BMI, age, and other health indicators, the model predicts the likelihood of diabetes.
@@ -21,6 +23,8 @@ Model performance:
 - **Libraries**: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ---
+
+<img src="screenshort/front.png" alt="Diabetes Prediction GUI" width="800"/>
 
 ## 📊 Dataset Details
 
