@@ -19,8 +19,8 @@ Model performance:
 ## 🧠 Machine Learning Model
 
 - **Type**: Supervised Classification
-- **Model Used**: (e.g., Logistic Regression / Random Forest / SVM) ← *(Replace this with your model)*
-- **Libraries**: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
+- **Model Used**: ( Logistic Regression  / SVM) 
+- **Libraries**: `scikit-learn`, `pandas`, `numpy`
 
 ---
 
