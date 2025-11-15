@@ -13,7 +13,7 @@ This project provides an intelligent and simple way to predict diabetes using es
 * **Training Accuracy:** 78%
 * **Test Accuracy:** 77%
 
-🔗 **Live Demo:** *[https://diabetes-prediction-model-mauve.vercel.app/](https://diabetes-prediction-model-mauve.vercel.app/)*
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://diabetes-prediction-model-mauve.vercel.app/)
 
 ---
 
@@ -139,6 +139,66 @@ Diabetes_Prediction_Model/
 | Metric            | Score |
 | ----------------- | ----- |
 | Training Accuracy | 78%   |
+| Test Accuracy     | 77%   |
+| Precision         | 75%   |
+| Recall            | 72%   |
+| F1-Score          | 73%   |
 
+---
 
-⭐ If you find this project useful, please consider giving it a star!
+## 🐛 Troubleshooting
+
+Common commands:
+
+```
+python --version
+pip install --upgrade pip
+pip install -r requirements.txt -v
+python app.py --debug
+```
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a new branch
+3. Add improvements
+4. Commit changes
+5. Submit a Pull Request
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+
+**Gufran Khan**
+
+* GitHub: @iGufrankhan
+* LinkedIn: *(Add your LinkedIn profile link)*
+
+---
+
+## ⚠️ Disclaimer
+
+> This project is for **educational and informational** purposes only and should not be used as a substitute for professional medical advice.
+
+---
+
+## 🙏 Acknowledgments
+
+* Pima Indians Diabetes Dataset
+* scikit-learn community
+* All supporters & contributors
+
+---
+
+## 📧 Contact
+
+Have questions? Found an issue?
+Feel free to reach out or open a GitHub issue.
