@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 import numpy as np
-import pickle  # or import pickle if you used that
+import pickle  
 
 app = Flask(__name__)
 
